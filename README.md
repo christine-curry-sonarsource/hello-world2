@@ -1,2 +1,2 @@
 # hello-world2
-Second attempt at a hello world repo
+This is an editing exercise in a branch I created from the main. 
